@@ -16,8 +16,8 @@ This project explains how to setup Metasploitable 2 as a HomeLab project. I have
 <h2>Instructions:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+First, you'll need to download the Metasploitable file from the link provided: https://sourceforge.net/projects/metasploitable/ <br/>
+<img src="https://imgur.com/pLDBULT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>

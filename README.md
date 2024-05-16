@@ -17,30 +17,31 @@ This project explains how to setup Metasploitable 2 as a HomeLab project. I have
 
 <p align="center">
 First, you'll need to download the Metasploitable file from the link provided: https://sourceforge.net/projects/metasploitable/ <br/>
-<img src="https://imgur.com/pLDBULT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/pLDBULT.png" height="80%" width="80%" alt="Metasploit 2 HomeLab steps"/>
 <br />
 <br />
 You'll then need to manually create a new virtual machine in VirtualBox. <br/>(if you dont already have VirtualBox installed, use the provided link to the download file): <br/>https://www.virtualbox.org/wiki/Downloads <br/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Next, Click the NEW button at the top, and copy the settings from the below screenshot: <br/>
+<img src="https://imgur.com/zrrK8KR.png" height="80%" width="80%" alt="Metasploit 2 HomeLab steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+To import Metasploitable 2, select the “Use an existing virtual hard disk file” and find the Metasploitable.vmdk file, that is inside the .zip file you downloaded earlier:  <br/>
+<img src="https://imgur.com/c0Os7xW.png" height="80%" width="80%" alt="Metasploit 2 HomeLab steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Once the virtual machine has successfully been created, you should be able to boot it. <br/> 
+ Once the boot up process has completed, it'll prompt you for a username and password. By default, they are both set to "msfadmin":  <br/>
+<img src="https://imgur.com/6RNx3ZY.png" height="80%" width="80%" alt="Metasploit 2 HomeLab steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run the command "ifconfig" to confirm that an ip address has been configured: <br/>
+ <img src="https://imgur.com/bAnu385.png" height="80%" width="80%" alt="Metasploit 2 HomeLab steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+CONGRATULATIONS! <br>
+ you have now successfully installed Metasploitable 2 on your virtual machine  <br/>
 </p>
 
 <!--

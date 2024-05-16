@@ -20,8 +20,7 @@ First, you'll need to download the Metasploitable file from the link provided: h
 <img src="https://imgur.com/pLDBULT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+You'll then need to manually create a new virtual machine in VirtualBox. <br/>(if you dont already have VirtualBox installed, use the provided link to the download file): <br/>https://www.virtualbox.org/wiki/Downloads <br/>
 <br />
 <br />
 Enter the number of passes: <br/>

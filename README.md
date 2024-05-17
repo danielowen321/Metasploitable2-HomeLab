@@ -13,6 +13,14 @@ This project explains how to setup Metasploitable 2 as a HomeLab project. I have
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b>
+
+<h2>Skills Leanred </h2>
+
+- Creating a new VirtualBox profile
+- Basic Linux Shell commands
+
+
+
 <h2>Instructions:</h2>
 
 <p align="center">

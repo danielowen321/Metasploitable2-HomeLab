@@ -14,7 +14,7 @@ This project explains how to setup Metasploitable 2 as a HomeLab project. I have
 
 - <b>Windows 11</b>
 
-<h2>Skills Leanred </h2>
+<h2>Skills Learned </h2>
 
 - Creating a new VirtualBox profile
 - Basic Linux Shell commands
